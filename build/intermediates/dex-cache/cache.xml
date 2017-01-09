@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.0_ab4094704169b5f0b9d030319abbe11462d4c9b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.0_766da8c160e50b2875484b317cf50016f7775236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_bb5680df422cda54d4011c93d88ac56b396b68c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.0_b0b077043f1e30da2603acd5a729479566cd5099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_b2469d2caebed71c4223f8675713cbc3fe2064a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_c962fd3e2bd1bc0221be02ca4f484b0256406c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.0_20c294d68e48f1c616fa853a95463b0472864892/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_3787fc75c90dd41e9833a252315cd68b91c2a62f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_5ee580f7f27ab1cb325ae693e54e5e04b2239bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.0_5450cc327f753685dd78091f6abcdefd78b493ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.0_9d2a4f9c8ec512216954667c4ebe9c7cc45b2753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.0_ba8037b508fd3944d1c642cf8c5761ca90e375bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.0_ca1cdff02154598dd33bc60407a8977ac1618bac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.0_ef97dabda4bc56017ec8545c521b69f762068f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.0_6caf91842218da5e995ad1d69694bc5be23d5edb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.0_10385d7c366ab9949de3c47fa7aaebabcc705496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_91c78e300c4feda6205f647241e893695db526e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.0_c154b5a16ef8d0e597fcff563b6d9481857199b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.0_86c81a2d6cac7b09fdfd0c3aeb9c4f8062d21890/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.0_46377fe7506145b5c14d7ad82033a2e47b10e64d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf2d1349b855eba9ddc80a2ab2e3e3a5b193c20b">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_298d901dbbf8896b08286445960ebbb81a1933f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.0_1ae7a96a58675b2c14568647d6a3b08f6c2a8957/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.0_ee045ad901638357b807c1b1a85b8160d13cc118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.0_53e6a81f06e42034e4cb3807d72ac47a1fbbccce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.0_c80b896d49b2a37c1d722e8e7bf05c23006690f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_ae94a04c676e12221632cee0de9f819117ba6391/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_fde83142a66a16bd5cc6a16d66d111645eb865a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_3deb9accb40a9c6aace898556c3819978cde8734/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.0_b30c6e28bb31d17242766ec3d57fbb4ef8aed45a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.0_c01d8c15d6f781ba8905b7dbb9988aece728180b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_ec9e2a14ec054bfa3a885b1222d2b02adc9dc24f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.0_33e4317e7e4db6bb11e7af5477874dbd5dd7ca0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3afcd1e0a4368e38522707def061ba71f3ef2a0a">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d06a835d3127bd199dc10c7afd14fea20e04d550/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.0_a56a899e2a1d7cebbbc9133a6530ccbf5084ae47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_4f04b08ace826b5b6affbb49fba5b3e12347d04c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.0_ff7ff057d53412df4268b4810c15f61e0b7e5e5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.0_bdb761ed31eee03a71a83c4275f729abb1325be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_6551601ccee0c2b606a3dae9d5a026d29fc02d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_a613c786f5309f1dac7cbee6d797da87b95749a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.0_e94d0d1a94ac3f139b6b9e8f7461bd57a1faf01f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_d6b8a1298fe1b9e5eb00fd4a2b9b8fbe62a46bb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.0_e1a029b75d002f37314672fe5fd209b1989611ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_2a746ad3d3dd32373855ede8706f9970485b8bb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_de3e758003a8ea2eee1595e4c5e3e544cea8533f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.0_946f66356ad6f64bc05a6f0f652c88c6e8b3e563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.0_650e3033beae687d298a66d5aa7d7d8c6c910750/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_f5c19290c1792bb418a63c05d07bb176621b8bb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.0_afaf6e3fd8770005dd7b0b87eb7bc0d7a0213811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.0_9e6260f7912a4c8aa863f4d760a19c581f8943c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.0_42ce7bf784a232916dba4caba8191176c33881b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.0_aa383c36bef5b433a04d64b57ca3e66a368a8e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.0_16af6f0bd37554e953ce6181e77fd977878d4137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.0_ce55038c03a34c1d7d6571acaf567eb946253aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.0_17b46cb9f21a8c49712bf94d3d8731097af1ac9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.0_8a653872a2ad89d7f02aca9afa1959c8f11c1d6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.0_75b593a12a52ca384e15c624ea44f2db2110ddc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.0_d4e6ad55cacd81f07c9ea5a7f14c86e09b00e31b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.0_ea40b63da65aea4d407071bce1993e801ca63dcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.0_7533a76125790cd40e72d3bcd8647f9bc2a92789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_63d24e6d396405c70014a8c62008bb751f24f984/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.0_6071315ac61e93de24258a7fe03403f77de7bd18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_a8ac3706f5d20798a7b83b3afbeb02fcd6e0978d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.0_3e891bb31bc877753d4b5c82887c1e36e7a2db25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/benjaminmeeder/Documents/School/COMS_309/309Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_72fee31129c149c855a46a6349c7ca2f3b29a9ca/classes.dex" />
+    </item>
+
+</items>
